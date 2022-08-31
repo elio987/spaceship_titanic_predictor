@@ -1,5 +1,6 @@
 # spaceship_titanic_predictor
 Leonardo Gracida Munoz A01379812
+<br>
 Miguel Ángel Pérez López A01750145
 <br>
 Predictor sobre si una persona va a ser teletransportada o no en un titanic espacial simulado.
