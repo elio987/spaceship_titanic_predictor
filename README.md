@@ -16,3 +16,5 @@ Lo que contiene el repositorio hasta el momento es el procesamiento de los datos
 - Link hacia los repositorios de la app, front end y back end.
 - https://github.com/Maikindustries/Las_Neuronas_App_Backend
 - https://github.com/Maikindustries/Las_Neuronas_App_Frontend
+- Enlace a la presentacion final: 
+- https://docs.google.com/presentation/d/1AYVX5IIeysbt43-aaZ7OtvwNeb3tCA5VA5dxcrgAwBY/edit?usp=sharing
